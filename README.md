@@ -7,17 +7,17 @@
 1. **Перейдите в директорию `ensemble_1`:**
    - Откройте `*.ipynb`.
    - Запустите все ячейки в ноутбуке.
-   - Это сгенерирует прогнозы и сохранит их в `blending_submissions/predictions/ensemble_1.csv`.
+   - Это сгенерирует прогнозы и сохранит их в `blending_submissions/ensemble_1.csv`.
 
 2. **Перейдите в директорию `ensemble_2`:**
    - Откройте `*.ipynb`.
    - Запустите все ячейки в ноутбуке.
-   - Это сгенерирует прогнозы и сохранит их в `blending_submissions/predictions/ensemble_2.csv`.
+   - Это сгенерирует прогнозы и сохранит их в `blending_submissions/ensemble_2.csv`.
 
 3. **Перейдите в директорию `ensemble_3`:**
    - Откройте `*.ipynb`.
    - Запустите все ячейки в ноутбуке.
-   - Это сгенерирует прогнозы и сохранит их в `blending_submissions/predictions/ensemble_3.csv`.
+   - Это сгенерирует прогнозы и сохранит их в `blending_submissions/ensemble_3.csv`.
 
 ### Шаг 2: Объединение прогнозов
 
